@@ -17,7 +17,7 @@ Let's browse the directory now:
 ````
 which returns `emails.txt hgdr64.backup.tar.gz index.php`
 
-While we really would like to look into all the available files, goal is just to retrieve the file name.
+While we really would like to look into all the available files, the goal is just to retrieve the file name.
 
 Thus, we submit the flag and get an easy 50 points.
 
