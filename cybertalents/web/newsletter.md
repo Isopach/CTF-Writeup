@@ -19,4 +19,11 @@ which returns `emails.txt hgdr64.backup.tar.gz index.php`
 
 While we really would like to look into all the available files, goal is just to retrieve the file name.
 
-Thus, we submit the `hgdr64.backup.tar.gz` and get an easy 50 points.
+Thus, we submit the flag and get an easy 50 points.
+
+<details>
+  <summary>FLAG</summary>   
+   
+   When decoded, it gives: `hgdr64.backup.tar.gz`
+
+</details>
