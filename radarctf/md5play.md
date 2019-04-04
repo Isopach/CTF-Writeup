@@ -9,7 +9,8 @@ This one's easy. We find that the code takes an md5 param and a value with the f
 
 Now, you should know that PHP truncates floatval, so it's simple to find the answer.
 
-Just try something like `http://blackfoxs.org/radar/md5play/?md5=cq1` and you got it.
+Just have to generate a string that returns a floatval of 0 while giving a hash, like `cq1`.        
+Simply put, PHP logic: `0 = fa294db4407136207cc7d17009c5c07e`
 
 <details>
 <summary>FLAG</summary> 
