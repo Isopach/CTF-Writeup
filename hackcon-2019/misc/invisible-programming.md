@@ -68,7 +68,7 @@ I wrote a script to parse the spaces and tabs as binary, like this:
 
 ```
 function decoder(str) {
-    var result = '';
+    var flag = '';
 
     str.replace(/.{7}/g, function (strByte) {
         var binStr = strByte.replace(/ /g, '0').replace(/    /g, '1');
@@ -76,7 +76,7 @@ function decoder(str) {
         result += String.fromCharCode(charCode);
     });
 
-    return result;
+    return flag;
 }
 ```
 
