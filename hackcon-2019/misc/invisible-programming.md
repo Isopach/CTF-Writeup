@@ -58,7 +58,7 @@ int main			  	 ()
 
 There's a flag in plain sight, but alas it was not so easy.
 
-There seems to be many redundant spaces and tabs, as well as 40 lines of line feed. What could this mean?
+There seems to be many redundant spaces and tabs, as well as 40 lines of line feed after the code. What could this mean?
 
 After googling a bit, it seems to resemble WhiteSpace esolang.
 
