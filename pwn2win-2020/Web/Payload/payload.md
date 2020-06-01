@@ -2,7 +2,7 @@
 
 This is a polyglot challenge. Unfortunately I don't have the challenge statement any more, but the only hint was to write an XSS/SQLi/XXE in a single payload. 
 
-We know how each payload is parsed according to the [source](Payload/source)
+We know how each payload is parsed according to the [source](source)
 
 XXE:     
 ``var doc = libxml.parseXml(payload, { noent: true ,nonet: true })``
