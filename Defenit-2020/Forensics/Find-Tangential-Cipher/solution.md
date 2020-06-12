@@ -28,7 +28,7 @@ We knew we were up to something now.
 
 Moving on to the next db in the same folder, we found the message log in the first table of the db. As you can see in the image below, it goes like this:
 
-![Zoom-Tangential-Hint](images/zoom-tangential-cipher.png)
+![Zoom-Tangential-Hint](images/zoom-tangential-file.png)
 
 ```
 Hello
