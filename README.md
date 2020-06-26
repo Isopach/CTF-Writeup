@@ -7,13 +7,13 @@ Sometimes CTFs overlap so I may start 1-2 days late during a longer CTF. Also, s
 
 ## 2020
 
-* [redpwnCTF 2020](./redpwn-CTF-2020/) 31/1494 teams, with CTF.SG
-* [Zh3r0 CTF 2020](./Zh3r0-CTF-2020/) 40/810 teams, with CTF.SG
+* [redpwnCTF 2020](https://github.com/Isopach/isopach.github.io/blob/master/_posts/2020-06-26-Redpwn-CTF-2020.md) 31/1494 teams, with CTF.SG
+* [Zh3r0 CTF 2020](https://github.com/Isopach/isopach.github.io/blob/master/_posts/2020-06-18-Zh3r0-CTF-2020-Digital-Forensics.md) 40/810 teams, with CTF.SG
 * WeCTF 2020 11/257 teams, with CTF.SG
 * [NaHamcon CTF 2020](./NaHamcon-2020/) 55/2854 teams, with CTF.SG
 * [Really Awesome CTF 2020](/.RACTF-2020) 29/1047 teams, with CTF.SG
-* [Defenit CTF 2020](/.Defenit-2020) 10/427 teams, with CTF.SG
-* [HS CTF 7](/.HSCTF=7) 21/1466 teams, with CTF.SG
+* [Defenit CTF 2020](https://github.com/Isopach/isopach.github.io/blob/master/_posts/2020-06-12-Defenit-CTF-2020-Writeup.md) 10/427 teams, with CTF.SG
+* [HS CTF 7](/.HSCTF-7) 21/1466 teams, with CTF.SG
 * [Pwn2Win CTF 2020](./pwn2win-2020/Web/) 
 * Hack-A-Sat Qualifiers 18/1278 teams, with CTF.SG
 
